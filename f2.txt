@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is f2.txt
 created in remote repository
+=======
+This is f2.txt 
+added in fb
+>>>>>>> fb
