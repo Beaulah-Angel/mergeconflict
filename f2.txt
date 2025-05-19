@@ -1,2 +1,6 @@
 file2
+<<<<<<< HEAD
 remote repository
+=======
+local repository
+>>>>>>> fb
